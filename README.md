@@ -19,7 +19,7 @@ Add the dependency in composer.json :
 ```json
 {
     "require" : {
-        "blanchonvincent/zf2-lazy-loading-module" : "master-dev"
+        "blanchonvincent/zf2-lazy-loading-module" : "dev-master"
     }
 }
 ```
